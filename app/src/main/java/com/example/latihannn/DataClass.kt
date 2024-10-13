@@ -16,3 +16,7 @@ fun main(){
     val data = DataClass(1, "dia@gmail.com")
     println(data)
 
+    // Fungsi Equels
+    val data2 = DataClass(1, "kamu@gmail.com")
+    println(data == data2) //false
+
