@@ -6,4 +6,7 @@ fun contohlist(){
     val readOnlyAbjad = listOf("a","b","c")
     println(readOnlyAbjad)
 
+    //list mutable
+    val shape: MutableList<String> = mutableListOf("circle","square","triangle")
+    println(shape)
 
