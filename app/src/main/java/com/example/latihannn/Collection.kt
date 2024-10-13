@@ -14,3 +14,13 @@ fun contohlist(){
     shape.add("circle")
     println(shape)
 
+    //menghapus data dari list mutable
+    shape.remove("triangle")
+
+    println(shape.first())
+    println(shape.last())
+    println(shape.count())
+
+    shape.removeAt(1)
+    println(shape)
+
