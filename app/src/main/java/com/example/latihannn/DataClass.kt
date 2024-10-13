@@ -12,3 +12,7 @@ data class DataClass(
 )
 
 
+fun main(){
+    val data = DataClass(1, "dia@gmail.com")
+    println(data)
+
