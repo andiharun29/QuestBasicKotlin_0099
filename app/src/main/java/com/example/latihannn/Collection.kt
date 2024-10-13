@@ -10,3 +10,7 @@ fun contohlist(){
     val shape: MutableList<String> = mutableListOf("circle","square","triangle")
     println(shape)
 
+    //menambahkan data ke dalam list mutable
+    shape.add("circle")
+    println(shape)
+
