@@ -33,3 +33,6 @@ fun contohlist(){
     println(shapesLocked)
 }
 
+fun main(){
+    contohlist()
+}
