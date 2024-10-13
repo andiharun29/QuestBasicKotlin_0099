@@ -6,3 +6,4 @@ fun contohlist(){
     val readOnlyAbjad = listOf("a","b","c")
     println(readOnlyAbjad)
 
+
